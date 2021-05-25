@@ -6,5 +6,5 @@
 ### current position
 post-doc in [Kohei Nakajima san's physical intelligence lab](https://www.kohei-nakajima.com/). 
 
-### Affiliation
+### affiliation
 [The University of Tokyo Center for Education and Research in Information Science and Technology (CERIST), Graduate School of Information Science and Technology: ](https://www.i.u-tokyo.ac.jp/edu/cerist/index_e.shtml)
