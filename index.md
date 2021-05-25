@@ -4,7 +4,7 @@
 - [https://scholar.google.com/citations?user=9QBrXR8AAAAJ&hl=en](https://scholar.google.com/citations?user=9QBrXR8AAAAJ&hl=en)
 
 ### current position
-post-doc in [Kohei Nakajima san's lab](https://www.kohei-nakajima.com/).
+post-doc in [Kohei Nakajima san's physical intelligence lab](https://www.kohei-nakajima.com/). 
 
 ### Affiliation
 [The University of Tokyo Center for Education and Research in Information Science and Technology (CERIST), Graduate School of Information Science and Technology: ](https://www.i.u-tokyo.ac.jp/edu/cerist/index_e.shtml)
